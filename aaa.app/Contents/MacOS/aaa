@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo lala > /tmp/gg
+osascript -e 'display dialog "gg"'
